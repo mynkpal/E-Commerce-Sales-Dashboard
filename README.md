@@ -4,7 +4,7 @@ An interactive **Power BI dashboard** built to explore ecommerce sales
 performance, profitability, product categories, customer contributions,
 and payment preferences.
 
-![Madhav Ecommerce Sales Dashboard](images/dashboard.png)
+![Madhav Ecommerce Sales Dashboard](dashboard.png)
 
 > **Dashboard preview:** Add your screenshot to the repository at
 > `images/dashboard.png` so it appears here on GitHub.
